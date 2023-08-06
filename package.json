@@ -1,0 +1,20 @@
+{
+  "name": "react-course-midulive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarianA-KingA/react-course-midulive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarianA-KingA/react-course-midulive/issues"
+  },
+  "homepage": "https://github.com/DarianA-KingA/react-course-midulive#readme"
+}
